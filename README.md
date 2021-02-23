@@ -5,7 +5,7 @@ The prediction analysis is made using <ins>Auto-Regressive Integrated Moving Ave
 <br><br>
 
 ## Source for the Data
-The data are extracted from the open data registry <b>Portal Data Terbuka Malaysia</b> via [data.gov.my](https://www.data.gov.my) as follows:
+The data are extracted from the open data repository <b>Portal Data Terbuka Malaysia</b> via [data.gov.my](https://www.data.gov.my) as follows:
 1. Method 1 (CCSM): [Daily Projected Rainfall for Scenario CCSM3A1FI by State in Peninsular Malaysia](https://www.data.gov.my/data/ms_MY/dataset/daily-projected-rainfall-for-scenario-ccsm3a1fi-by-state-in-peninsular-malaysia)
 2. Method 2 (ECHM): [Daily Projected Rainfall for Scenario ECHM5A1B2 by State in Peninsular Malaysia](https://www.data.gov.my/data/ms_MY/dataset/daily-projected-rainfall-for-scenario-echm5a1b2-by-state-in-peninsular-malaysia)
 3. Method 3 (MRIB): [Daily Projected Rainfall for Scenario MRIB1 by State in Peninsular Malaysia](https://www.data.gov.my/data/ms_MY/dataset/daily-projected-rainfall-for-scenario-mrib1-by-state-in-peninsular-malaysia)
