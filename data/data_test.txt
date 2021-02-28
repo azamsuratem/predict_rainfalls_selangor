@@ -1,1 +1,0 @@
-This is a .txt test file to create a new folder data_test
